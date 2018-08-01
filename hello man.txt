@@ -1,4 +1,0 @@
-print("hello man")
-print("hello everybody")
-print("hello")
-star new test
